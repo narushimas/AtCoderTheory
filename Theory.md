@@ -1,6 +1,8 @@
 # BITで区間の数の種類を管理する
 https://atcoder.jp/contests/abc174/tasks/abc174_f
 
+* point：右端が固定された時、ある数が複数あっても、一番右のものだけ考えればいい
+
 * 問題設定：N要素の数列a[]が与えられて、区間[l,r)に現れる数の種類のクエリQ個に答えたい。（クエリはオフラインとするため、先読みできる。）
 * 制約：N <= 10^5, Q <= 10^5, a[i] <= 10^5
 
@@ -14,3 +16,6 @@ https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qu
 https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_c
 
 * 性質：二分グラフでは奇数長のパスは異なる色である。
+
+# 簡単に計算できる、理想的な状態を維持しながら数え上げる（状態が崩れた時には、一定の処理をすると理想的な状態を維持して計算できる）
+https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_a
