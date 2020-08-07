@@ -19,3 +19,6 @@ https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_c
 
 # 簡単に計算できるような理想的な状態を維持しながら数え上げる（状態が崩れた時には、一定の処理をすると理想的な状態を維持して計算できる）
 https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_a
+
+# 一筆書きで処理するとき、両端を決めると、その左、中、右の順に、線が通る回数が偶、奇、偶となる
+https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d
