@@ -1,3 +1,6 @@
+# C - +/- Rectangle
+https://atcoder.jp/contests/agc016/tasks/agc016_c
+
 # ひし形の数を数える（ひし形カウントの制約が厳しい物）
 https://codeforces.com/contest/1393/problem/D
 <details>
