@@ -1,4 +1,4 @@
-* ひし形の数を数える（ひし形カウントの制約が厳しい物）
+# ひし形の数を数える（ひし形カウントの制約が厳しい物）
 https://codeforces.com/contest/1393/problem/D
 <details>
 <summary>解法</summary>
