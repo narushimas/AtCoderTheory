@@ -24,6 +24,8 @@ https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_a
 https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d
 
 # 合計０の状態からずらして考える。数字は１ずらすよりも結構大きく数字をずらす必要がある事が多い。
-https://atcoder.jp/contests/agc007/tasks/agc007_b <br>
-https://atcoder.jp/contests/agc016/tasks/agc016_c　<br>
+* https://atcoder.jp/contests/agc007/tasks/agc007_b 
+<br>
+* https://atcoder.jp/contests/agc016/tasks/agc016_c
+はみ出た部分のプラスが大きいほど、総和が大きくなるので、＋とーは限界まで大きくするのがいい。<br>
 考察で使えるかもしれないメモ：２次元配列の中に異質な点が点在するようなアイデアよりも、「１行丸ごと異質」のような構築が妥当性を考えやすかったり、偏りによる無駄が生じにくいかもしれない。ただ、この問題では前者のアイデアでも解けた。
