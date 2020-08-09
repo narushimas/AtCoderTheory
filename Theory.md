@@ -22,3 +22,8 @@ https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_a
 
 # 一筆書きで処理するとき、両端を決めると、その左、中、右の順に、線が通る回数が偶、奇、偶となる
 https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d
+
+# 合計０の状態からずらして考える。結構大きく数字をずらす。
+https://atcoder.jp/contests/agc007/tasks/agc007_b
+https://atcoder.jp/contests/agc016/tasks/agc016_c　
+考察で使えるかもしれないメモ：２次元配列の中に異質な点が点在するようなアイデアよりも、「１行丸ごと異質」のような構築が妥当性を考えやすかったり、偏りによる無駄が生じにくいかもしれない。
