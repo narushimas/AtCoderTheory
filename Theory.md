@@ -1,3 +1,6 @@
+# たくさんの文字列のprefix, suffixを扱う時、Trie木を使うと高速
+https://atcoder.jp/contests/agc047/tasks/agc047_b
+
 # ２変数をたくさん扱うとき、二次元累積和で高速に処理できるかも
 https://atcoder.jp/contests/agc047/tasks/agc047_a
 
