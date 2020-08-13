@@ -1,3 +1,6 @@
+# ２変数をたくさん扱うとき、二次元累積和で高速に処理できるかも
+https://atcoder.jp/contests/agc047/tasks/agc047_a
+
 # BITで区間の数の種類を管理する
 https://atcoder.jp/contests/abc174/tasks/abc174_f
 
