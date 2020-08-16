@@ -1,3 +1,6 @@
+# 差が１の最長増加部分列の長さは、idx[]を作成した時、idx[]の最長の連続増加部分列の長さ
+https://atcoder.jp/contests/agc024/tasks/agc024_b
+
 # たくさんの文字列のprefix, suffixを扱う時、Trie木を使うと高速
 https://atcoder.jp/contests/agc047/tasks/agc047_b
 
