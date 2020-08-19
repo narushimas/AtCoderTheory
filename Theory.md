@@ -1,3 +1,6 @@
+# f[i][j] = f[j][i]となる配列は、 y = -x方向に平行移動しても、f[i][j] = f[j][i]が満たされる
+https://atcoder.jp/contests/agc023/tasks/agc023_b
+
 # 差が１の最長増加部分列の長さは、idx[]を作成した時、idx[]の最長の連続増加部分列の長さ
 https://atcoder.jp/contests/agc024/tasks/agc024_b
 
