@@ -1,3 +1,6 @@
+# マンハッタン距離は、４５度回転する。等距離の奇跡が、４５度傾いた正方形から傾きのない正方形に変わる。
+https://atcoder.jp/contests/arc047/tasks/arc047_b
+
 # f[i][j] = f[j][i]となる配列は、 y = -x方向に平行移動しても、f[i][j] = f[j][i]が満たされる
 https://atcoder.jp/contests/agc023/tasks/agc023_b
 
