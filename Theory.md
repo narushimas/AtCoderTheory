@@ -1,3 +1,6 @@
+# 昇順ソート、降順ソートの2つの数列は、同じindexで値が重なるのは高々１箇所
+https://atcoder.jp/contests/abc178/tasks/abc178_f
+
 # マンハッタン距離は４５度回転する。等距離の奇跡が４５度傾いた正方形から傾きのない正方形に変わる。
 https://atcoder.jp/contests/arc047/tasks/arc047_b
 
