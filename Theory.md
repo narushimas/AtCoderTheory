@@ -1,3 +1,6 @@
+# 偶数長の閉路しかない　⇄　二部グラフ。逆も然り
+https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_d
+
 # 昇順ソート、降順ソートの2つの数列は、同じindexで値が重なるのは高々１箇所
 https://atcoder.jp/contests/abc178/tasks/abc178_f
 
