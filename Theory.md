@@ -1,4 +1,7 @@
-# 偶数長の閉路しかない　⇄　二部グラフ。逆も然り
+# 回文は、左、中、右に分ける
+https://atcoder.jp/contests/arc088/tasks/arc088_c
+
+# 偶数長の閉路しかない　⇄　二部グラフ
 https://atcoder.jp/contests/jsc2019-qual/tasks/jsc2019_qual_d
 
 # 昇順ソート、降順ソートの2つの数列は、同じindexで値が重なるのは高々１箇所
