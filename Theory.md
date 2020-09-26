@@ -1,3 +1,6 @@
+# ダブリング配列を使って、二分探索しながら進むとき、最終目的値の直前までしか進んではいけない
+https://atcoder.jp/contests/arc060/tasks/arc060_c
+
 # 回文は、左、中、右に分ける
 https://atcoder.jp/contests/arc088/tasks/arc088_c
 
