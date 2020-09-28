@@ -1,3 +1,6 @@
+# グループの数で包除するのではなく、全体の辺の数で包除する
+https://atcoder.jp/contests/abl/tasks/abl_f
+
 # 昇順配列と降順配列の要素を比べると、一致する数字は１種類のみ
 https://atcoder.jp/contests/abc178/tasks/abc178_f
 
