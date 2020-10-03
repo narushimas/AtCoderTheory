@@ -1,3 +1,6 @@
+# 漸化式を見抜いた時、行列累乗を考える
+https://atcoder.jp/contests/abc009/tasks/abc009_4
+
 # グループの数で包除するのではなく、全体の辺の数で包除する
 https://atcoder.jp/contests/abl/tasks/abl_f
 
