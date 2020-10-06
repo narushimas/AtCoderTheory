@@ -1,3 +1,11 @@
+# 
+
+# 2つ同時にparity入れ替えるとき、1の数および、0の数の偶奇は不変
+https://atcoder.jp/contests/abc155/tasks/abc155_f
+
+# 区間加算は、区間差を見ると両端の2点加算、減算
+https://atcoder.jp/contests/abc155/tasks/abc155_f
+
 # 漸化式を見抜いた時、行列累乗を考える
 https://atcoder.jp/contests/abc009/tasks/abc009_4
 
