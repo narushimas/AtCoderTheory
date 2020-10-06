@@ -1,4 +1,5 @@
-# 
+# 数列Cがあり、L, Rに+1するとき、数列Cをグラフで考え、L-Rに貼ったエッジを考える。
+https://atcoder.jp/contests/abc155/tasks/abc155_f
 
 # 2つ同時にparity入れ替えるとき、1の数および、0の数の偶奇は不変
 https://atcoder.jp/contests/abc155/tasks/abc155_f
