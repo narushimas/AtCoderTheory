@@ -1,4 +1,7 @@
-# 数列Cがあり、L, Rに+1するとき、数列Cをグラフで考え、L-Rに貼ったエッジを考える。
+# 文字の引き算では、prefixもしくはsuffixしか残らないので、状態数を減らせる
+https://atcoder.jp/contests/abc175/tasks/abc175_f
+
+# 数列Cがあり、L, Rに+1するとき、数列Cをグラフで考え、L-Rに貼ったエッジを考える
 https://atcoder.jp/contests/abc155/tasks/abc155_f
 
 # 2つ同時にparity入れ替えるとき、1の数および、0の数の偶奇は不変
