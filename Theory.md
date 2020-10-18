@@ -1,3 +1,6 @@
+# ペアは偶、奇になるか？という発想を持つ
+https://atcoder.jp/contests/agc048/tasks/agc048_b
+
 # 区間に幅に着目して、全探索する。ループの中身が和級数の計算量で処理できる
 https://atcoder.jp/contests/abc128/tasks/abc128_f
 
