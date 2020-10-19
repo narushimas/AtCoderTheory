@@ -1,3 +1,6 @@
+# 前から詰めるのが最善という貪欲
+https://atcoder.jp/contests/arc105/tasks/arc105_c
+
 # ペアは偶、奇になるか？という発想を持つ
 https://atcoder.jp/contests/agc048/tasks/agc048_b
 
