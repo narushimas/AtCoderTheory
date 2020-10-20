@@ -1,3 +1,6 @@
+# 残っている中で、最小の物を選ぶ事で、重複をなくす
+https://atcoder.jp/contests/abc180/tasks/abc180_f
+
 # 前から詰めるのが最善という貪欲
 https://atcoder.jp/contests/arc105/tasks/arc105_c
 
