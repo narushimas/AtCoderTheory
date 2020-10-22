@@ -1,3 +1,9 @@
+# グループ内でしかペアを組めないとき、N個のグループから、合計Kペア選ぶ方法 → ￥各グループでペアを作る場合の数を求めて、Convolution繰り返す
+https://atcoder.jp/contests/abl/tasks/abl_f
+
+# 少なくともK個含む場合を考えて、包除原理する
+https://atcoder.jp/contests/abl/tasks/abl_f
+
 # 残っている中で、最小の物を選ぶ事で、重複をなくす
 https://atcoder.jp/contests/abc180/tasks/abc180_f
 
