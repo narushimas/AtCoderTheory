@@ -1,4 +1,7 @@
-# グループ内でしかペアを組めないとき、N個のグループから、合計Kペア選ぶ方法 → ￥各グループでペアを作る場合の数を求めて、Convolution繰り返す
+# 等差数列(一般項がa+i*d) について、D桁になるものの数は、D桁以下の数 - D-1桁以下の数
+https://atcoder.jp/contests/abc129/tasks/abc129_f
+
+# グループ内でしかペアを組めないとき、N個のグループから、合計Kペア選ぶ方法 → 各グループでペアを作る場合の数を求めて、Convolution繰り返す
 https://atcoder.jp/contests/abl/tasks/abl_f
 
 # 少なくともK個含む場合を考えて、包除原理する
