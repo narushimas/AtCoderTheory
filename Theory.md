@@ -1,3 +1,9 @@
+# 素因数の数は素因数の積の大きさを使って限定できる 
+```
+2 × 3 × 5 × 7 × 11 × 13 × 17 = 510510
+```
+https://atcoder.jp/contests/yahoo-procon2018-final-open/tasks/yahoo_procon2018_final_a
+
 # 等差数列(一般項がa+i*d) について、D桁になるものの数は、D桁以下の数 - D-1桁以下の数
 https://atcoder.jp/contests/abc129/tasks/abc129_f
 
