@@ -1,4 +1,5 @@
-# Nが18くらいと小さくて、順列ぽかったらもうbitDP
+# Nが18くらいと小さくて、順列ぽかったらbitDP
+https://atcoder.jp/contests/keyence2020/tasks/keyence2020_d
 
 # 包除のdpは、状態が偶奇だけで良い可能性を疑う
 https://atcoder.jp/contests/dp/tasks/dp_y
