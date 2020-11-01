@@ -1,3 +1,6 @@
+# \sum_{i=1}^{n} * \sum_{j=i+1}^{n}　は、\sum_{i=1}^{n} * \sum_{j=1}^{n}にして、i==jの場合を全部引いて、2で割る
+https://atcoder.jp/contests/arc106/tasks/arc106_d
+
 # Nが18くらいと小さくて、順列ぽかったらbitDP
 https://atcoder.jp/contests/keyence2020/tasks/keyence2020_d
 
