@@ -1,3 +1,7 @@
+# N回目に終了する時は、N-1回目までに終了していてはいけない。
+N-1回目で終了直前の状態である確率を求めて、そこで最後一回勝つ。
+https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_c
+
 # 木の頂点iから、一番遠い頂点の1つは、直径の端点a, bのどちらかに必ず存在する
 https://atcoder.jp/contests/agc005/tasks/agc005_c
 
