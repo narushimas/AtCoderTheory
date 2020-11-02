@@ -1,3 +1,12 @@
+# 二次元配列の要素数が多いときは、a[min][max] となるように作る
+https://atcoder.jp/contests/arc106/tasks/arc106_d
+```
+例
+n = 200000, k = 300の時
+x[n][k] で色々すると、3s
+x[k][n] と色々すると、1.3s
+```
+
 # \sum_{i=1}^{n} * \sum_{j=i+1}^{n}　は、\sum_{i=1}^{n} * \sum_{j=1}^{n}にして、i==jの場合を全部引いて、2で割る
 https://atcoder.jp/contests/arc106/tasks/arc106_d
 
