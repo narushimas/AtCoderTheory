@@ -1,4 +1,8 @@
-# 二次元配列の要素数が多いときは、a[min][max] となるように作る
+# 木の頂点iから、一番遠い頂点の1つは、直径の端点a, bのどちらかに必ず存在する
+https://atcoder.jp/contests/agc005/tasks/agc005_c
+
+
+二次元配列の要素数が多いときは、a[min][max] となるように作る
 https://atcoder.jp/contests/arc106/tasks/arc106_d
 ```
 例
