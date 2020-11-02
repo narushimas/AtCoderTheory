@@ -1,3 +1,7 @@
+# グラフで考えにくい時、全域木を取って、木の問題にする
+木に含まれなかったエッジは適当に処理し、全域木のみ考える
+https://atcoder.jp/contests/agc035/tasks/agc035_b
+
 # N回目に終了する時は、N-1回目までに終了していてはいけない。
 N-1回目で終了直前の状態である確率を求めて、そこで最後一回勝つ。
 https://atcoder.jp/contests/m-solutions2019/tasks/m_solutions2019_c
