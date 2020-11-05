@@ -1,3 +1,8 @@
+# List<Pair<Integer, Integer>>などを使って、値の大きい区間の開始と終了位置だけを管理できる
+Pair<左端の座標or右端の座標, 左端なら+1,右端なら-1>　として、Listをsortしてから前から順番に扱う
+
+https://atcoder.jp/contests/abc147/tasks/abc147_f
+
 # 最大にするものと、最小にするものの間は全部取れる
 https://atcoder.jp/contests/abc147/tasks/abc147_f
 
