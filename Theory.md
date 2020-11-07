@@ -1,3 +1,6 @@
+# 部分木の削除はオイラーツアー + fenwick
+https://atcoder.jp/contests/abc163/tasks/abc163_f
+
 # イベントソート
 List<Pair<Integer, Integer>>などを使って、値の大きい区間の開始と終了位置だけを管理できる
 Pair<左端の座標or右端の座標, 左端なら+1,右端なら-1>　として、Listをsortしてから前から順番に扱う
