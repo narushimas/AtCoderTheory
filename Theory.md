@@ -1,3 +1,6 @@
+# 何かが確定せずに困る時、それを状態として持てばいい
+https://atcoder.jp/contests/abc172/tasks/abc172_f
+
 # 部分木の削除はオイラーツアー + fenwick
 https://atcoder.jp/contests/abc163/tasks/abc163_f
 
