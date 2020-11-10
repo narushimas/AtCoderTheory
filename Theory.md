@@ -1,3 +1,6 @@
+# ２数を比べる時、下からi桁分については、i桁目が小さい方が小さい。
+https://atcoder.jp/contests/abc172/tasks/abc172_f
+
 # 何かが確定せずに困る時、それを状態として持てばいい
 https://atcoder.jp/contests/abc172/tasks/abc172_f
 
