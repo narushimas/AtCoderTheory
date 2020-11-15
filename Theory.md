@@ -1,3 +1,6 @@
+# 複雑な順序関係はグラフ化してメモ化再帰など
+https://atcoder.jp/contests/abc139/tasks/abc139_e
+
 # ２数を比べる時、下からi桁分については、i桁目が小さい方が小さい。
 https://atcoder.jp/contests/abc172/tasks/abc172_f
 
