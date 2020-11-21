@@ -1,3 +1,6 @@
+# 階乗に素因数pがいくつ含まれるか→ルジャンドルの公式
+https://codeforces.com/problemset/problem/711/E
+
 # 複雑な順序関係はグラフ化してメモ化再帰など
 https://atcoder.jp/contests/abc139/tasks/abc139_e
 
