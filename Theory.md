@@ -1,4 +1,4 @@
-# 入力の中央値を管理し続けたい時は、PriorityQueue2本使えばいい
+# 入力の中央値を管理し続けたい時は、PriorityQueue2本(大きいものの集合、小さいものの集合) 使えばいい。Queueの大きさが同じになるように値を管理し続ける。
 https://atcoder.jp/contests/abc127/tasks/abc127_f
 
 # 約数形の包除原理では、メビウスの反転公式を考える
