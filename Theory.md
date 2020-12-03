@@ -1,3 +1,6 @@
+# 入力の中央値を管理し続けたい時は、PriorityQueue2本使えばいい
+https://atcoder.jp/contests/abc127/tasks/abc127_f
+
 # 約数形の包除原理では、メビウスの反転公式を考える
 蟻本p265
 
