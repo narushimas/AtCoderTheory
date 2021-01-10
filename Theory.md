@@ -1,3 +1,6 @@
+# x mod Mの時、x = aM + bと立式する
+https://atcoder.jp/contests/arc111/tasks/arc111_a
+
 # gcd(n, a) = 1 となるような a(<n)の個数は、オイラーのファイ関数で高速に求めることができる
 蟻本p270
 
