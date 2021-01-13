@@ -1,3 +1,6 @@
+# ３進数のbit全探索 
+https://atcoder.jp/contests/abc187/tasks/abc187_f
+
 # x mod Mの時、x = aM + bと立式する
 https://atcoder.jp/contests/arc111/tasks/arc111_a
 
