@@ -1,4 +1,4 @@
-# ３進数のbit全探索 
+# ３進数のbit全探索(3 ^ 18がギリギリ)
 https://atcoder.jp/contests/abc187/tasks/abc187_f
 
 # x mod Mの時、x = aM + bと立式する
