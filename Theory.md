@@ -1,3 +1,9 @@
+# DPで、未知数を計算に使うとき、未知数の係数だけ持っておくテクニックがある。
+https://atcoder.jp/contests/abc189/tasks/abc189_f
+
+# アフィン変換を繰り返すものは、変換行列積を事前計算して高速化できる。
+https://atcoder.jp/contests/abc189/tasks/abc189_e
+
 # ３進数のbit全探索(3 ^ 18がギリギリ)
 https://atcoder.jp/contests/abc187/tasks/abc187_f
 
