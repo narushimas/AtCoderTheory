@@ -1,3 +1,9 @@
+# 少数を受け取って、整数に直すにはMath.round()を利用する
+https://atcoder.jp/contests/abc191/tasks/abc191_d
+
+# 10^9以下の整数の約数は、最大でも1300個くらい
+https://atcoder.jp/contests/abc191/tasks/abc191_f
+
 # DPで、未知数を計算に使うとき、未知数の係数だけ持っておくテクニックがある。
 https://atcoder.jp/contests/abc189/tasks/abc189_f
 
