@@ -1,3 +1,17 @@
+# CRTを使って求めた剰余は、元の式の剰余より小さくなることがある
+https://atcoder.jp/contests/abc186/tasks/abc186_e
+
+```
+Z ≡ a (mod m1)
+Z ≡ b (mod m2)
+-> Z ≡ c (mod lcm(m1, m2))
+と求めた時、c < a || c < b　となることはある。
+もしこの時、cをa, b以上にしたいなら、c += lcm(m1, m2)とする。
+```
+
+# 一時不定方程式を解く時、拡張ユークリッドでは解の正負の処理がたいへん。CRTを使うといい。
+https://atcoder.jp/contests/abc193/tasks/abc193_e
+
 # 少数を受け取って、整数に直すにはMath.round()を利用する
 https://atcoder.jp/contests/abc191/tasks/abc191_d
 
