@@ -1,3 +1,6 @@
+# グリッドグラフは二分グラフ（マスをevenとoddで分けるのは定石。特にフローのエッジを１方向にしか割り当てないとすることがしやすい）
+https://atcoder.jp/contests/practice2/tasks/practice2_d
+
 # CRTを使って求めた剰余は、元の式の剰余より小さくなることがある
 https://atcoder.jp/contests/abc186/tasks/abc186_e
 
