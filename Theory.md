@@ -1,3 +1,6 @@
+# 頂点について、２択あり最適なものを選ぶならば、燃やす埋める問題に帰着することを考える
+https://atcoder.jp/contests/abc193/tasks/abc193_f
+
 # グリッドグラフは二分グラフ（マスをevenとoddで分けるのは定石。特にフローのエッジを１方向にしか割り当てないとすることがしやすい）
 https://atcoder.jp/contests/practice2/tasks/practice2_d
 
