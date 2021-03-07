@@ -3,6 +3,7 @@
 sum = 0;
 for(i=0;i<=k;i++) sum += aCi * bC(k-i);
 ```
+https://atcoder.jp/contests/tdpc/tasks/tdpc_string
 
 # 頂点について、２択あり最適なものを選ぶならば、燃やす埋める問題に帰着することを考える
 https://atcoder.jp/contests/abc193/tasks/abc193_f
