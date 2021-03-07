@@ -1,3 +1,9 @@
+# 種類1がa個, 種類2がb個ある時、そこからk個選ぶのは、 
+```
+sum = 0;
+for(i=0;i<=k;i++) sum += aCi * bC(k-i);
+```
+
 # 頂点について、２択あり最適なものを選ぶならば、燃やす埋める問題に帰着することを考える
 https://atcoder.jp/contests/abc193/tasks/abc193_f
 
