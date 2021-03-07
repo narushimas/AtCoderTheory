@@ -1,3 +1,9 @@
+# ある列について、前後にxorをかける操作は、xorの累積を見るとswap
+https://atcoder.jp/contests/agc052/tasks/agc052_b
+
+# グラフ上の累積的な値を観測するとき、根やスタートに対して、１つ頂点を生やしてそこから観測するといいことも。その場合に増えた辺や頂点の値は一意に決まるかも。
+https://atcoder.jp/contests/agc052/tasks/agc052_b
+
 # 種類1がa個, 種類2がb個ある時、そこからk個選ぶ場合の数は、 
 ```
 sum = 0;
