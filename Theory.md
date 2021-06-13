@@ -1,3 +1,6 @@
+# wをN個、bをM個並べる時、差がK以上になってはいけない。この時の場合の数は、カタラン数を求める方法を使えばいい。
+https://atcoder.jp/contests/abc205/tasks/abc205_e
+
 # ある列について、前後にxorをかける操作は、xorの累積を見るとswap
 https://atcoder.jp/contests/agc052/tasks/agc052_b
 
