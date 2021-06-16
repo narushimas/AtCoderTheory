@@ -1,3 +1,10 @@
+# 多角形の面積は、任意の点Pを含む、三角形ABPの符号付き面積の和で求めることができる
+https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_g
+問題解説
+https://kmjp.hatenablog.jp/entry/2018/11/21/0900
+符号付き面積解説
+http://aozoragakuen.sakura.ne.jp/taiwa/taiwaNch03/senkeikika/node7.html
+
 # wをN個、bをM個並べる時、差がK以上になってはいけない。この時の場合の数は、カタラン数を求める方法を使えばいい。（直線グラフに対して、鏡像取ったところからの経路の数）
 https://atcoder.jp/contests/abc205/tasks/abc205_e
 
