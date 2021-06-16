@@ -1,4 +1,4 @@
-# 多角形の面積は、任意の点Pを含む、三角形ABPの符号付き面積の和で求めることができる
+# 多角形の面積は、任意の点P（例えば原点O）に対する三角形ABPの符号付き面積の和で求めることができる
 https://atcoder.jp/contests/cf18-relay-open/tasks/relay2018_g
 
 * 問題解説
