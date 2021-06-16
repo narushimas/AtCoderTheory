@@ -7,6 +7,9 @@ https://kmjp.hatenablog.jp/entry/2018/11/21/0900
 * 符号付き面積解説
 http://aozoragakuen.sakura.ne.jp/taiwa/taiwaNch03/senkeikika/node7.html
 
+* 符号付き面積にも触れている解説
+https://www.ioi-jp.org/camp/2017/2017-sp_camp-hide.pdf
+
 # wをN個、bをM個並べる時、差がK以上になってはいけない。この時の場合の数は、カタラン数を求める方法を使えばいい。（直線グラフに対して、鏡像取ったところからの経路の数）
 https://atcoder.jp/contests/abc205/tasks/abc205_e
 
